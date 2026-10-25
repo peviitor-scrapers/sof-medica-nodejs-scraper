@@ -1,0 +1,21 @@
+{
+  "userAgent": "job_seeker_ro_spider",
+  "requestTimeoutMs": 10000,
+  "pageDelayMs": 1000,
+  "rendering": { "mode": "static", "waitSelector": "", "timeoutMs": 30000 },
+  "staleJobDeletion": false,
+  "manageCompany": true,
+  "defaultLocation": ["Otopeni"],
+  "defaultWorkmode": "on-site",
+  "ownJobUrlPrefix": "https://apply.workable.com/j/",
+  "sources": {
+    "sitemap": "",
+    "listing": "https://apply.workable.com/sofmedica/",
+    "jobArchive": "https://apply.workable.com/j/"
+  },
+  "selectors": {
+    "jobArticle": ["", "[class*='job']", ".vacancy, .position, .listing-item"],
+    "jobTitle": ["", "h1, h2, h3, h4", "[itemprop='title'], [aria-label]", "a"],
+    "jobMeta": ["", "p, .meta, [class*='deadline']"]
+  }
+}
