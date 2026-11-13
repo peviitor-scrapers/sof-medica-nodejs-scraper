@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. OTOPENI, CAL. BUCUREŞTILOR, NR.87-91 |
 | Website | [https://sofmedica.com](https://sofmedica.com) |
 | Careers | [https://apply.workable.com/sofmedica/](https://apply.workable.com/sofmedica/) |
-| Last Scraped | 2026-11-12 |
+| Last Scraped | 2026-11-13 |
 
-## Current Job Listings (5)
+## Current Job Listings (4)
 
-_Generated: 2026-11-12T14:07:21.460Z_
+_Generated: 2026-11-13T13:32:12.805Z_
 
 ### Capital Development Manager, Robotic Surgery
 
@@ -40,13 +40,6 @@ _Generated: 2026-11-12T14:07:21.460Z_
 ### Senior Legal Advisor
 
 - **URL:** [https://apply.workable.com/j/E75CFFFB0A](https://apply.workable.com/j/E75CFFFB0A)
-- **Work Mode:** on-site
-- **Location:** Bucharest
-- **Status:** scraped
-
-### Supply Chain & Logistics Manager
-
-- **URL:** [https://apply.workable.com/j/9B8564886D](https://apply.workable.com/j/9B8564886D)
 - **Work Mode:** on-site
 - **Location:** Bucharest
 - **Status:** scraped
