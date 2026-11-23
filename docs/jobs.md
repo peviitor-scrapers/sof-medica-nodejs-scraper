@@ -10,11 +10,11 @@
 | Location | JUD. ILFOV, ORŞ. OTOPENI, CAL. BUCUREŞTILOR, NR.87-91 |
 | Website | [https://sofmedica.com](https://sofmedica.com) |
 | Careers | [https://apply.workable.com/sofmedica/](https://apply.workable.com/sofmedica/) |
-| Last Scraped | 2026-11-21 |
+| Last Scraped | 2026-11-23 |
 
 ## Current Job Listings (4)
 
-_Generated: 2026-11-21T13:49:53.232Z_
+_Generated: 2026-11-23T16:41:15.631Z_
 
 ### Capital Development Manager, Robotic Surgery
 
