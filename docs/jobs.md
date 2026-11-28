@@ -7,14 +7,14 @@
 | CIF | 6719715 |
 | Brand | Sofmedica |
 | Status | activ |
-| Location | Otopeni |
+| Location | JUD. ILFOV, ORŞ. OTOPENI, CAL. BUCUREŞTILOR, NR.87-91 |
 | Website | [https://sofmedica.com](https://sofmedica.com) |
 | Careers | [https://apply.workable.com/sofmedica/](https://apply.workable.com/sofmedica/) |
-| Last Scraped | 2026-11-27 |
+| Last Scraped | 2026-11-28 |
 
 ## Current Job Listings (4)
 
-_Generated: 2026-11-27T15:44:31.402Z_
+_Generated: 2026-11-28T14:39:54.099Z_
 
 ### Capital Development Manager, Robotic Surgery
 
